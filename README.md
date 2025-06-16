@@ -54,5 +54,4 @@ You can find the full notebook in this repository:
 ---
 
 ## Author
-Moh
-This project is for educational purposes only.
+Mohammad Anwar - Data Analyst
